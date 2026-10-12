@@ -1,0 +1,6 @@
+https://catalog.data.gov/dataset/monthly-revenue-of-u-s-natural-resources?from_hint=eyJxIjoicmV2ZW51ZSBsYW5kcyIsInNvcnQiOiJyZWxldmFuY2UiLCJoYXNfZG93bmxvYWQiOiJ0cnVlIn0%3D
+
+
+Monthly revenue of U.S. natural resources
+Published by Office of Natural Resources Revenue | Department of the Interior | Catalog Last Checked: September 10, 2026 at 07:18 PM | Dataset Last Updated: August 20, 2025 at 12:00 AM
+This dataset includes revenue from natural resources by month. Natural resources are extracted from federal lands, federal waters, and Native American lands. The data is further broken down by location, lease type, revenue type (e.g., bonuses, rents, and royalties), and commodity/product information. It does not include privately-owned lands or U.S. state lands. Federal revenue data is available by location. Native American data is only available at the national level to protect private and personally identifiable information. The dataset is tracked and managed by the Department of the Interior’s Office of Natural Resources Revenue. It contains revenue data from January 2003-present.
